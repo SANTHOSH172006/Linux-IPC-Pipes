@@ -1,6 +1,9 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
+Name : SANTHOSH D
+
+Regno: 212223220099
 
 # Ex03-Linux IPC - Pipes
 
@@ -81,7 +84,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 }
 ```
 ## OUTPUT
-![output](<Screenshot 2024-09-27 050247-1.png>)
+![368436572-bc22623e-085c-4ddb-a18d-d0f870a43aad](https://github.com/user-attachments/assets/40dd20bc-da36-4a1d-9766-45f07062b815)
+
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```
 #include <unistd.h>
@@ -96,7 +100,8 @@ exit(EXIT_SUCCESS);
 }
 ```
 ## OUTPUT
-![output](<Screenshot 2024-09-27 050307.png>)
+
+![368436701-5f3b0f8d-afaf-4e88-97ae-fa9eccaec929](https://github.com/user-attachments/assets/337655e9-7d69-4488-af12-3f5d8653aa61)
 
 # RESULT:
 The program is executed successfully.
